@@ -1,2 +1,9 @@
 # gatsby-contentful-site
-a good starting point for a gatsby website powered by contentful
+
+For https://app.contentful.com/spaces/piqwbhy50lj3/home
+
+## Content Models
+
+- Ads
+- Articles
+- Pages
